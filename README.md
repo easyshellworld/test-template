@@ -87,7 +87,7 @@
 
 <!-- START_COMMIT_TABLE -->
 
-| Name(GitHub ID) | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 | 6.30 | 7.01 | 7.02 | 7.03 | 7.04 | 7.05 | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 |
+| Name | 6.24 | 6.25 | 6.26 | 6.27 | 6.28 | 6.29 | 6.30 | 7.01 | 7.02 | 7.03 | 7.04 | 7.05 | 7.06 | 7.07 | 7.08 | 7.09 | 7.10 | 7.11 | 7.12 | 7.13 | 7.14 |
 | --------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |                 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 |                 |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
@@ -140,7 +140,7 @@
 | ----------- | ------------------------- | ------------------------------- |
 | START_DATE  | 2024-06-24T00:00:00+00:00 | Start time                      |
 | END_DATE    | 2024-07-06T23:59:59+00:00 | End time                        |
-| FIELD_NAME  | EICL1st· Name             | Field name in the readme        |
-| FILE_SUFFIX | _EICL1st.md_              | Shared learning activity number |
+| FIELD_NAME  | Name             | Field name in the readme        |
+| FILE_SUFFIX | .md           | Shared learning activity number |
 
 ![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
