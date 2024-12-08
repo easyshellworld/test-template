@@ -65,7 +65,7 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 - 报名:
 
   - Step01：Fork 本仓库。
-  - Step02：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的名字：YourName.md。
+  - Step02：复制 Template.md 创建你的个人笔记文件，并根据文档指引填写你的信息，并将文件重命名为你的 GitHub ID：YourGitHubID.md。
   - Step03：创建一个 PR 到当前仓库，本残酷共学助教会对你的 PR 进行 review，review 通过后，你的 PR 会被 merge 到 main 分支，这个时候你会收到邀请加入这个仓库 contribution 的邮件，接受邀请后，你会自动获得 main 分支的 push 权限。
   - Step04：完成以上三个步骤，恭喜你报名成功，后续就可以将你的学习记录直接 push 到 main 分支进行更新。
   - 请加入 xxx 群组保持交流：（请添加你创建的群组链接)。加入群组后请在群里报到一下方便助教记录。
