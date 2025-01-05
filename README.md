@@ -133,6 +133,8 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 6. 将令牌值添加到存储库 secret: 按照上述步骤将您的个人访问令牌值添加到您的存储库 secret 中，并将名称设置为 `PAT_WITH_INVITE_PERMISSIONS`。
 
 ![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/ef8e870d-e594-4caa-b42e-01150d5b5562" />
+
 
 ### 配置共学信息配置变量
 
