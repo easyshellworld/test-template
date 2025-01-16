@@ -53,6 +53,8 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 ## 共学激励
 
 {这部分内容是直接用 markdown 格式来编写，激励不是必须的，如果没有激励设置，也可以不写，或者写几句激励的话都可以}
+{以下是残酷共学目前已有的福利，建议保留}
+打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
 ## 更多信息
 
@@ -134,7 +136,6 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 
 ![image](https://github.com/user-attachments/assets/d7c06540-9076-4557-b911-e5e484a742bb)
 <img width="1213" alt="image" src="https://github.com/user-attachments/assets/ef8e870d-e594-4caa-b42e-01150d5b5562" />
-
 
 ### 配置共学信息配置变量
 
