@@ -139,13 +139,11 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 
 ### 配置共学信息配置变量
 
-1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
+1. 配置这两个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
 
 | Field Name  | Value                     | Comments                        |
 | ----------- | ------------------------- | ------------------------------- |
 | START_DATE  | 2024-06-24T00:00:00+00:00 | Start time                      |
 | END_DATE    | 2024-07-06T23:59:59+00:00 | End time                        |
-| FIELD_NAME  | Name                      | Field name in the readme        |
-| FILE_SUFFIX | .md                       | Shared learning activity number |
 
 ![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
