@@ -62,7 +62,7 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 
 ## 报名和打卡规则
 
-因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-53fca5ba49bb40c69e4e40e69f58f416)
+因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-bd65b981146947fea1fb675942567a45)
 
 - 报名:
 
@@ -85,7 +85,7 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
     ```
     - 日期格式为 `### 2024.07.11`，请不要随意更改
 
-## {本期残酷共学名字}打卡记录表
+## 残酷共学打卡记录表
 
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
@@ -139,13 +139,11 @@ Telegram：{残酷共学 Telegram channel 链接，方便大家讨论共学内�
 
 ### 配置共学信息配置变量
 
-1. 配置这四个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
+1. 配置这两个仓库变量(Repository variables)，注意不要添加**换行**，**空格**符号
 
 | Field Name  | Value                     | Comments                        |
 | ----------- | ------------------------- | ------------------------------- |
 | START_DATE  | 2024-06-24T00:00:00+00:00 | Start time                      |
 | END_DATE    | 2024-07-06T23:59:59+00:00 | End time                        |
-| FIELD_NAME  | Name                      | Field name in the readme        |
-| FILE_SUFFIX | .md                       | Shared learning activity number |
 
 ![image](https://github.com/user-attachments/assets/d5b6f504-9eea-4215-9848-056fc33f00f8)
