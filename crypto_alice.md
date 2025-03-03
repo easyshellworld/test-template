@@ -2,7 +2,7 @@
 timezone: UTC+2
 ---
 
-# crypto_alice
+# none
 
 1. 自我介绍
    Smart contract auditor and security researcher. Passionate about building secure decentralized systems.
