@@ -9,7 +9,7 @@ timezone: UTC+8
 2. 你认为你会完成本次残酷学习吗？
    待定
 3. 你的联系方式（推荐 Telegram）
-   Email: thhj是多少撒法发阿发是否是否是
+   Email: thhj是多少撒法发阿发是否是否是打发撒旦撒发达
 
 ## Notes
 
